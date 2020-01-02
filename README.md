@@ -1,2 +1,4 @@
-# fullstack
-Full stack playground
+# Fullstack
+---
+Hello to a Full stack playground!!!
+

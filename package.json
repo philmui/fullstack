@@ -1,0 +1,19 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "A fullstack server and client project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://philmui@bitbucket.org/philmui/fullstack.git"
+  },
+  "author": "Phil Mui",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/philmui/fullstack#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
